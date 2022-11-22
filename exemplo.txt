@@ -1,4 +1,4 @@
-Exemplo da oficina.
+Exemplo melhorado da oficina.
  
 
 Nova Funcionalidade do sistema.
